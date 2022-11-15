@@ -1,0 +1,58 @@
+body 
+{
+    font-family: "Helvetica Neue",sans-serif;
+    font-weight: lighter;
+    /*background-image: url(bg2.jpg);*/
+    background-size: cover;
+}
+
+nav 
+{
+    position: fixed;
+    width: 100%;
+    line-height: 60px;
+    background-color: #00000054;
+    top : 0px;
+    right: 0px;
+}
+
+nav ul 
+{
+    line-height: 60px;
+    list-style: none;
+    overflow: hidden;
+    color: #fff;
+    padding: 0;
+    text-align: right;
+    margin: 0;
+    padding-right: 40px;
+    transition: 1s;
+}
+
+nav ul li 
+{
+    display: inline-block;
+}
+
+li
+{
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+nav ul li a 
+{
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+}
+
+.menu
+{
+	padding-left: 16px;
+}
+
+.menu
+{
+    padding-left: 16px;
+}
